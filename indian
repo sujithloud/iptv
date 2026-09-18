@@ -1,0 +1,489 @@
+#EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
+#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
+#EXTINF: -1 tvg-id="Asianet.HD.in" tvg-name="Asianet HD" tvg-logo="https://i.postimg.cc/c4zq7NGr/1.webp" group-title="Malayalam", Asianet HD 1
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
+#EXTINF: -1 tvg-id="Asianet.HD.in" tvg-name="Asianet HD" tvg-logo="https://i.postimg.cc/c4zq7NGr/1.webp" group-title="Malayalam", Asianet HD 2
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/playlist.m3u8
+#EXTINF: -1 tvg-name="Asianet Middleeast" tvg-logo="https://i.postimg.cc/jjVfgV84/1.webp" group-title="Malayalam", Asianet Middleeast
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0c3d8692a6a574e9a731ff7ed7ca7fe:87eed062e3b13bd639f5cba89b83ea33
+https://login.bheem.tv/bpk-tv/22389/output/index.mpd
+#EXTINF: -1 tvg-id="Asianet.Movies.in" tvg-name="Asianet Movies HD" tvg-logo="https://i.postimg.cc/PrPzwg4j/1.webp" group-title="Malayalam", Asianet Movies HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
+#EXTINF: -1 tvg-id="asianet.plus.in" tvg-name="Asianet Plus" tvg-logo="https://i.postimg.cc/4dHVBfGS/1.png" group-title="Malayalam", Asianet Plus
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
+#EXTINF: -1 tvg-id="Surya.HD.in" tvg-name="Surya TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Malayalam", Surya HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
+https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
+#EXTINF: -1 tvg-id="Surya.Movies.in" tvg-name="Surya Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png" group-title="Malayalam", Surya Movies
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
+https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
+#EXTINF: -1 tvg-id="Surya.HD.in" tvg-name="Surya Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="Malayalam", Surya Comedy
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11563b00a46b43f2a0f80ecf42a4fb77:9bad28ad6f23dbb917c63ee680f66a1f
+https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
+#EXTINF: -1 tvg-id="Surya.Music.in" tvg-name="Surya Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="Malayalam", Surya Music
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25a1d2a4c3f848b1aed911ad691fe232:3c8b2cf8611c343e6a231b6a9c7c8b58
+https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd
+#EXTINF: -1 tvg-id="Zee.Keralam.HD.in" tvg-name="Zee Keralam HD" tvg-logo="https://i.postimg.cc/QMWKGjYF/1.png" group-title="Malayalam", Zee Keralam HD
+https://starshare.net:443/live/eduproaus11/gripping9information/98895.ts
+#EXTINF: -1 tvg-id="Mazhavil.Manorama.HD.in" tvg-name="Mazhavil Manorama HD" tvg-logo="https://i.postimg.cc/dtLqS4x0/1.webp" group-title="Malayalam", Mazhavil Manorama HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
+https://login.bheem.tv/bpk-tv/22020/output/index.mpd
+#EXTINF: -1 tvg-id="Flowers.in" tvg-name="Flowers TV" tvg-logo="https://i.postimg.cc/9FVkDMyg/1.png" group-title="Malayalam", Flowers TV
+https://starshare.net:443/live/eduproaus11/gripping9information/9030.ts
+#EXTINF: -1 tvg-id="Flowers.in" tvg-name="Flowers TV USA" tvg-logo="https://i.postimg.cc/FsRGxdhn/1.webp" group-title="Malayalam", Flowers TV USA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Magnavision TV" tvg-logo="https://i.postimg.cc/PxT6PVw1/1.png" group-title="Malayalam", Magnavision TV
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist_dvr.m3u8
+#EXTINF: -1 tvg-id="Kairali.TV.in" tvg-name="Kairali TV" tvg-logo="https://i.postimg.cc/PJRgYJPr/1.png" group-title="Malayalam", Kairali TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1382b4f8623151e88c52787ae11f11ab:de71cbb248a62cc2c4a66c8546b49d7d
+https://login.bheem.tv/bpk-tv/22412/output/index.mpd
+#EXTINF: -1 tvg-id="Kairali.TV.arabia" tvg-name="Kairali Arabia" tvg-logo="https://i.postimg.cc/0ycBwr3G/1.png" group-title="Malayalam", Kairali Arabia
+https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
+#EXTINF: -1 tvg-id="We.TV.in" tvg-name="We" tvg-logo="https://i.postimg.cc/xT7kTPjR/1.png" group-title="Malayalam", We
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://colorsportscreen.com/freetv/stream.m3u8?id=cc2206d5e988
+#EXTINF: -1 tvg-id="DD.Malayalam.in" tvg-name="DD Malayalam" tvg-logo="https://i.postimg.cc/13ztXScy/1.png" group-title="Malayalam", DD Malayalam
+https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
+#EXTINF: -1 tvg-id="Amrita.TV.in" tvg-name="Amrita TV" tvg-logo="https://i.postimg.cc/sfnFW6hW/1.png" group-title="Malayalam", Amrita TV
+https://ddash74r36xqp.cloudfront.net/master_2000.m3u8
+#EXTINF: -1 tvg-name="Anand TV" tvg-logo="https://i.postimg.cc/X78bsjmc/1.png" group-title="Malayalam", Anand TV
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Darshana TV" tvg-logo="https://i.postimg.cc/tTPGCXJ2/1.png" group-title="Malayalam", Darshana TV
+https://mumt04.tangotv.in/DARSHANATV/index.m3u8
+#EXTINF: -1 tvg-id="Kaumudy.TV.in" tvg-name="Kaumudy TV" tvg-logo="https://i.postimg.cc/RVcc88L9/1.png" group-title="Malayalam", Kaumudy TV
+https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
+#EXTINF: -1 tvg-id="Jeevan.TV.in" tvg-name="Jeevan TV" tvg-logo="https://i.postimg.cc/jq62rrmm/1.png" group-title="Malayalam", Jeevan TV
+https://cdn-3.pishow.tv/live/1467/master.m3u8
+#EXTINF: -1 tvg-id="Jaihind.TV.in" tvg-name="Jaihind TV" tvg-logo="https://i.ibb.co/7NLtS5R7/jaihind.jpg"" group-title="Malayalam", Jaihind TV
+https://test-yupptv.cachefly.net/260723/smil:jaihind1.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pulari Tv" tvg-logo="https://i.postimg.cc/pV9NDQJv/1.png" group-title="Malayalam", Pulari Tv
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Garshom TV" tvg-logo="https://i.postimg.cc/Wbn7zCFH/1.png" group-title="Malayalam", Garshom TV
+http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kerala Vision tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/04/ChatGPT-Image-Apr-29-2026-02_21_56-PM-1-200x300.png" group-title="Malayalam", Janapriyam TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://bhoomtv.net/geo/live.m3u8?id=1455
+#EXTINF: -1 tvg-id="Safari.TV.in" tvg-name="Kappa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Malayalam", Kappa TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://colorsportscreen.com/freetv/stream.m3u8?id=2933d0818d2f
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Raj Music Malayalam" tvg-logo="https://i.imgur.com/4gGax3f.png" group-title="Malayalam", Raj Music Malayalam
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://colorsportscreen.com/freetv/stream.m3u8?id=743e3ee3b8c3
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kerala Vision tvg-logo="https://i.postimg.cc/hP5qzVdC/1.png" group-title="Malayalam", Kerala Vision
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://colorsportscreen.com/freetv/stream.m3u8?id=6048f319b391
+#EXTINF: -1 tvg-name="Safari TV" tvg-logo="https://i.postimg.cc/T1mfQnmW/1.png" group-title="Malayalam", Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF: -1 tvg-name="Kite Victers" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KITE_Victers.png" group-title="Malayalam", Kite Victers
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+#EXTINF: -1 tvg-id="Janam.TV.in" tvg-name="Janam TV" tvg-logo="https://i.postimg.cc/cCmgXqfR/1.png" group-title="Malayalam", Janam TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
+#EXTINF: -1 tvg-id="Asianet.News.in" tvg-name="Asianet News" tvg-logo="https://i.postimg.cc/GhmhCM8m/1.png" group-title="Malayalam", Asianet News
+https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
+#EXTINF: -1 tvg-id="Mathrubhumi.News.in" tvg-name="Mathrubhumi News" tvg-logo="https://i.postimg.cc/G3Q40Cs4/1.png" group-title="Malayalam", Mathrubhumi News
+https://segment.yuppcdn.net/110322/mathrubhuminews/playlist.m3u8
+#EXTINF: -1 tvg-id="News.24.in" tvg-name="Twenty Four News" tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="Malayalam", Twenty Four News
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+#EXTINF: -1 tvg-id="Manorama.News.in" tvg-name="Manorama News" tvg-logo="https://i.postimg.cc/xjMKXCFR/1.png" group-title="Malayalam", Manorama News
+https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
+#EXTINF: -1 tvg-id="Kairali.News.in" tvg-name="Reporter TV" tvg-logo="https://i.ibb.co/przgSwP0/Kairali-News.jpg" group-title="Malayalam", Reporter TV
+https://d2gvyg6lvauoko.cloudfront.net/230226/reporter1/chunks.m3u8
+#EXTINF: -1 tvg-id="Kairali.News.in" tvg-name="Kairali News" tvg-logo="https://i.ibb.co/przgSwP0/Kairali-News.jpg" group-title="Malayalam", Kairali News
+https://cdn-3.pishow.tv/live/1469/master.m3u8
+#EXTINF: -1 tvg-id="Media.One.in" tvg-name="Media One" tvg-logo="https://i.ibb.co/8nnfwKnC/Mediaone.jpg" group-title="Malayalam", Media One
+https://cdn-3.pishow.tv/live/1481/master.m3u8
+#EXTINF: -1 tvg-id="News18.Kerala.in" tvg-name="News 18 Kerala" tvg-logo="https://i.ibb.co/LhcN1PLC/News18-Keralam.jpg" group-title="Malayalam", News 18 Kerala
+https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Real News Kerala" tvg-logo="https://realnewskerala.com/wp-content/uploads/2018/04/460x-180-px-org-300x117.png" group-title="Malayalam", Real News Kerala
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="News18.Kerala.in" tvg-name="Zee Malayalam News" tvg-logo="https://i.ibb.co/LhcN1PLC/News18-Keralam.jpg" group-title="Malayalam", Zee Malayalam News
+https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
+#EXTINF: -1 tvg-id="News18.Kerala.in" tvg-name="News Malayalam 24x7" tvg-logo="https://i.imgur.com/eHsPixZ.png" group-title="Malayalam", News Malayalam 24x7
+https://cdn-3.pishow.tv/live/1629/master.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="MyFin TV tvg-logo="https://i.postimg.cc/FzG8Ypwd/1.jpg" group-title="Malayalam", MyFin TV
+https://livetv.sinuostech.com/myfintv/index.m3u8?dvr
+#EXTINF: -1 tvg-id="" tvg-name="Big TV Malayalam tvg-logo="https://i.postimg.cc/15kLfy9R/1.jpg" group-title="Malayalam", Big TV Malayalam
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
+
+
+#EXTINF: -1 tvg-id="" tvg-name="Koickal News" tvg-logo="https://i.postimg.cc/8C25BgVK/1.png" group-title="Malayalam Local", Koickal News
+http://applelive.in/koickalnews/koickalnews.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Kannur Vision" tvg-logo="https://i.postimg.cc/L6ncRYPY/1.png" group-title="Malayalam Local", Kannur Vision
+https://stream.logichost.in/kannurvision/live/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="VCV Vision" tvg-logo="https://i.ibb.co/2YhMvyPz/VCVVision.jpg" group-title="Malayalam Local", VCV Vision
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="V9 News" tvg-logo="https://i.postimg.cc/sgnGWLX0/1.webp" group-title="Malayalam Local", V9 News
+https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="CCTV News" tvg-logo="https://i.ibb.co/v4DPKL1B/CCTVNEWS.jpg" group-title="Malayalam Local", CCTV News
+https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="CCTV News" tvg-logo="https://i.postimg.cc/SKh9G8gY/1.png" group-title="Malayalam Local", CCTV Movies
+https://96vd9q4kyxq7-hls-live.5centscdn.com/cctvkkm/4870f9d3a6299578edcc3e6c954baeba.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="CCTV Pradakshinam" tvg-logo="https://i.imgur.com/xljlM0u.png" group-title="Malayalam Local", CCTV Pradakshinam
+https://96vd9q4kyxq7-hls-live.5centscdn.com/CCTVWEB/3d17933d07af044d3a2caa608d6a8afe.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Swantham" tvg-logo="https://i.postimg.cc/KvHFNpq5/1.png" group-title="Malayalam Local", Swantham
+http://cloud.logichost.in:1935/SWANTHAM/live/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Kasaragod Vision" tvg-logo="https://i.postimg.cc/Sx9NXt0Z/1.png" group-title="Malayalam Local", Kasaragod Vision
+https://live.skystream.in/live/kasaragodvsn/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="KCN Kasaragod" tvg-logo="https://i.postimg.cc/prfsGhDw/1.png" group-title="Malayalam Local", KCN Kasaragod
+https://live.skystream.in/live/kcnksrgod/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Cherupuzha vartha" tvg-logo="https://i.postimg.cc/dVFLgYk7/1.webp" group-title="Malayalam Local", Cherupuzha vartha
+https://live.skystream.in/live/vartha2132/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Starnet" tvg-logo="https://i.postimg.cc/h4bLjpLf/1.png" group-title="Malayalam Local", Starnet
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Starnet" tvg-logo="https://i.postimg.cc/hhRcLkhH/1.jpg" group-title="Malayalam Local", Starnet
+https://rtmp.applelive.in/starnet/starnet/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Starnet" tvg-logo="https://i.postimg.cc/hhRcLkhH/1.jpg" group-title="Malayalam Local", Starnet
+https://play.applelive.in/starnettv/starnettv.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="New Vision HD" tvg-logo="https://i.imgur.com/WovvgH2.png" group-title="Malayalam Local", New Vision HD
+https://live.skystream.in/live/newvision2924/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="KC Vision" tvg-logo="https://i.imgur.com/gwvBCEz.png" group-title="Malayalam Local", KC Vision 
+http://111.92.41.129:11037/hls/kv.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="kalika TV" tvg-logo="https://i.imgur.com/xMZva0s.png" group-title="Malayalam Local", kalika TV
+http://server.applelive.in/kalikatv/kalikatv.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Sat View" tvg-logo="https://i.imgur.com/aC7gU12.png" group-title="Malayalam Local", Sat View
+https://stream.onecloudlive.in/satview/satviewhd/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Thanima Media" tvg-logo="https://i.imgur.com/QwL54Np.png" group-title="Malayalam Local", Thanima Media
+https://live.skystream.in/live/thanimatvtvm/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Kcv Kuttanad" tvg-logo="https://i.imgur.com/BZtahLi.png" group-title="Malayalam Local", Kcv Kuttanad
+https://live.skystream.in/live/kcvkuttanadhd/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Kcv Ottapalam" tvg-logo="https://i.imgur.com/3oWUviF.png" group-title="Malayalam Local", Kcv Ottapalam
+https://live.skystream.in/live/kcvottapalam/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="UTV Palakkad" tvg-logo="https://i.postimg.cc/fRdrd3NQ/1.jpg" group-title="Malayalam Local", UTV Palakkad
+https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="UTV Utsav" tvg-logo="https://i.postimg.cc/LXVd1JLw/1.jpg" group-title="Malayalam Local", UTV Utsav
+https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Wayanad Vision" tvg-logo="https://i.imgur.com/CnXj4Qh.png" group-title="Malayalam Local", Wayanad Vision
+https://online.wayanadvision.in/hls/wayanadvision.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Wayanad Vision" tvg-logo="https://i.postimg.cc/ncxXs7h7/1.png" group-title="Malayalam Local", Wayanad Vision Movies
+https://online.wayanadvision.in/hls/wvmovies.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Wayanad Vision" tvg-logo="https://i.postimg.cc/SNctd0qh/1.png" group-title="Malayalam Local", Wayanad Vision Plus
+https://online.wayanadvision.in/hls/streaming1.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="KCL HD" tvg-logo="https://i.postimg.cc/505KRj6M/1.png" group-title="Malayalam Local", KCL HD
+http://kcltv.livebox.co.in/kclhls/live.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Periyar Vision" tvg-logo="https://i.ibb.co/8nmGn4FY/Periyar-Vision.jpg" group-title="Malayalam Local", Periyar Vision
+https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="We One Kerala" tvg-logo="https://i.postimg.cc/JhkzL26Q/1.webp" group-title="Malayalam Local", We One Kerala
+http://194.163.147.129:1935/WEONE/live/chunklist_w1949686536.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Cranganore" tvg-logo="https://i.ibb.co/N6wM0rJW/Cranganore500x500.jpg" group-title="Malayalam Local", Cranganore
+https://live.applelive.in/cranganorechannel/cranganorechannel/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="N Vision" tvg-logo="https://i.imgur.com/4TMkT2j.png" group-title="Malayalam Local", N Vision
+http://xstream.onecloudlive.in:8080/hls/nvisionhd/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Vision Media" tvg-logo="https://i.postimg.cc/Y0xN7mVG/1.png" group-title="Malayalam Local", Vision Media
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Eagle One" tvg-logo="https://i.imghippo.com/files/IvmE2647IEU.png" group-title="Malayalam Local", Eagle One
+https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="C Malayalam" tvg-logo="https://i.imgur.com/M4OFZbQ.png" group-title="Malayalam Local", C Malayalam
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Pravasi Channel" tvg-logo="https://i.imgur.com/lVZSKl6.png" group-title="Malayalam Local", Pravasi Channel
+https://m6gdavepdn93-hls-live.5centscdn.com/indialife/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="City Channel" tvg-logo="https://i.imgur.com/rSKtCmy.png" group-title="Malayalam Local", City Channel
+https://live.skystream.in/live/citytv2924/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Citi Channel" tvg-logo="https://i.imgur.com/qtEUswU.png" group-title="Malayalam Local", Citi Channel
+http://cloud.logichost.in:1935/live/citi/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="MCV Channel" tvg-logo="https://i.imgur.com/fRN6blY.png" group-title="Malayalam Local", MCV Channel
+http://cloud.logichost.in:1935/live/mcvlive/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Rose Vision" tvg-logo="https://i.postimg.cc/qvGZwPzM/1.jpg" group-title="Malayalam Local", Rose Vision
+https://live.skystream.in/live/rose3265/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="VBC News Thodupuzha" tvg-logo="https://i.imgur.com/cVDrlC9.png" group-title="Malayalam Local", VBC News Thodupuzha
+https://live.skystream.in/live/vbcthdpza/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Malabar Plus" tvg-logo="https://i.postimg.cc/28PMys9G/1.png" group-title="Malayalam Local", Malabar Plus
+http://cloud.logichost.in:1935/live/mplus/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="NVTV" tvg-logo=https://i.imgur.com/orivwjA.png" group-title="Malayalam Local", NVTV
+https://ipcloud.live/nvtv/livetvstream/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Drishya" tvg-logo="https://i.imgur.com/zA1lb0Z.png" group-title="Malayalam Local", Drishya TV
+https://live.skystream.in/live/drishya5060/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="KCV Ottapalam" tvg-logo="https://i.imgur.com/3oWUviF.png" group-title="Malayalam Local", KCV Ottapalam
+https://live.skystream.in/live/kcvottapalam/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Drisya TV" tvg-logo="https://i.imgur.com/efGfDMw.png" group-title="Malayalam Local", Drisya TV
+https://live.skystream.in/live/drishyakarunagapally/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="City Vision" tvg-logo="https://i.imgur.com/qz3FubG.png" group-title="Malayalam Local", City Vision
+https://live.skystream.in/live/citykannurcity/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Network Payyanur" tvg-logo="https://i.imgur.com/qseTX4O.png" group-title="Malayalam Local", Network Payyanur
+https://live.skystream.in/live/networkpayyanur/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Global Entertainment" tvg-logo="https://i.imgur.com/znJ0dop.png" group-title="Malayalam Local", Global Entertainment
+https://live.skystream.in/live/global2924/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Drisya News" tvg-logo="https://i.imgur.com/RKB0rWH.png" group-title="Malayalam Local", Drisya News
+https://live.skystream.in/live/DrisyaPala2924/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Media Today" tvg-logo="https://i.imgur.com/fu5R74P.png" group-title="Malayalam Local", Media Today
+https://live.skystream.in/live/mediatday/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Kerala Today" tvg-logo="https://i.imgur.com/vFlhnsr.png" group-title="Malayalam Local", Kerala Today
+https://live.skystream.in/live/krlatoday/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="TCN Channel" tvg-logo="https://i.imgur.com/LOYcpnK.png" group-title="Malayalam Local", TCN Channel
+https://live.skystream.in/live/tcn8909/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="PCV Pattambi" tvg-logo="https://i.imgur.com/7hyKL5H.png" group-title="Malayalam Local", PCV Pattambi
+https://live.skystream.in/live/pcvpattambi/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="AJ Net" tvg-logo="https://i.imgur.com/jEOu3sl.png" group-title="Malayalam Local", AJ Net
+http://stream.logichost.in:1935/AJNET/live/chunklist_w775936038.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="South Vision" tvg-logo="https://i.imgur.com/yYsIpBc.png" group-title="Malayalam Local", South Vision
+https://live.skystream.in/live/southvsnklm/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="N Media Channel" tvg-logo="https://i.imgur.com/I9QaExV.png" group-title="Malayalam Local", N Media Channel
+https://live.skystream.in/live/newmedia2924/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="KVTV Music" tvg-logo="https://i.imgur.com/qai4Wea.jpeg" group-title="Malayalam Local", KVTV Music
+https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/chunklist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Vibgyor TV" tvg-logo="https://i.postimg.cc/fRWsMn3y/1.png" group-title="Malayalam Local", Vibgyor TV
+https://livestream.vibgyortv.com/hls/stream.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Channel 2" tvg-logo="https://i.imghippo.com/files/rxO2778yE.png" group-title="Malayalam Local", Channel 2
+https://skystream.in/live/channel6785/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="GSV" tvg-logo="https://i.imgur.com/XOhaMb0.png" group-title="Malayalam Local", GSV
+https://live.skystream.in/live/gsv2924/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="TCN" tvg-logo="https://i.postimg.cc/26bXCTFC/1.png" group-title="Malayalam Local", TCN
+http://cloud.logichost.in:1935/TCN/live/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="NTV UAE HD" tvg-logo="https://i.postimg.cc/QMpJmPbb/1.png" group-title="Malayalam Local", NTV UAE HD
+https://stream.logichost.in/NTV/live/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Teak Vision Nilambur" tvg-logo="https://i.postimg.cc/VNQy4dLr/1.png" group-title="Malayalam Local", Teak Vision Nilambur
+https://hd.singamcloud.in/teakvision/teakvision/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Powran TV" tvg-logo="https://i.postimg.cc/BvtmJXn6/1.jpg" group-title="Malayalam Local", Powran TV
+https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="CCNET" tvg-logo="https://i.imgur.com/3F3gAhC.png" group-title="Malayalam Local", CCNET
+https://live.skystream.in/live/ccnet7082/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="KCN Kasaragod" tvg-logo="https://i.postimg.cc/prfsGhDw/1.png" group-title="Malayalam Local", KCN Kasaragod
+https://live.skystream.in/live/kcnksrgod/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="K7 Channel" tvg-logo="https://i.postimg.cc/mkKBgxnW/1.webp" group-title="Malayalam Local", K7 Channel
+https://live.skystream.in/live/keralam2742/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.postimg.cc/LXgmmYdz/1.png" group-title="Malayalam Local", GTV
+https://play.applelive.in/gtv/gtv.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="GTV Max" tvg-logo="https://i.postimg.cc/NFbJVDNW/1.png" group-title="Malayalam Local", GTV Max
+https://play.applelive.in/gtvmax/gtvmax.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="New star" tvg-logo="https://i.postimg.cc/FFGWpJ3P/1.webp" group-title="Malayalam Local", New star
+https://live.skystream.in/live/newsstar2924/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="VTV" tvg-logo="https://i.postimg.cc/vZfKp1DY/1.jpg" group-title="Malayalam Local", VTV
+https://play.applelive.in/vtv/vtv.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Media Plus HD" tvg-logo="https://i.postimg.cc/g2s7YCy3/1.jpg" group-title="Malayalam Local", Media Plus HD
+https://live.applelive.in/mediaplus/mediaplus/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Gowri Vision" tvg-logo="https://i.postimg.cc/gkQV3Nzb/1.jpg" group-title="Malayalam Local", Gowri Vision
+https://live.applelive.in/gowrivision/gowrivision/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Citi Channel" tvg-logo="https://i.postimg.cc/yYjczT64/1.jpg" group-title="Malayalam Local", Citi Channel
+http://stream.logichost.in:1935/CITI/live/chunklist_w564209429.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="CTV Mukkam" tvg-logo="https://i.postimg.cc/L8yjQZVZ/1.jpg" group-title="Malayalam Local", CTV Mukkam
+https://live.skystream.in/live/ctv1805/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Metro Live" tvg-logo="https://i.ibb.co/h1KL6jQR/Metrolive500x500.jpg" group-title="Malayalam Local", Metro Live
+http://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="TCV Tirur" tvg-logo="https://i.ibb.co/6kpvn5d/TCV.jpg" group-title="Malayalam Local", TCV Tirur
+https://js.logichost.in/hls/f4d7e750ee8f8385fe5be797/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Media Malabar" tvg-logo="https://i.ibb.co/GGhkQKP/Media-Malabar.jpg" group-title="Malayalam Local", Media Malabar
+https://js.logichost.in/hls/151f0e3016366711834ba1ef/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="C Net" tvg-logo="https://i.ibb.co/tphLCgwb/CNet.jpg" group-title="Malayalam Local", C Net
+https://js.logichost.in/hls/6c810aa85aefcf722f0bf48c/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Sonic Vision" tvg-logo="https://i.ibb.co/chX2DJvJ/Sonic-Vision500x500.jpg" group-title="Malayalam Local", Sonic Vision
+https://live.skystream.in/live/sonicktrkra/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="golive" tvg-logo="https://i.ibb.co/WvCgmMPs/Kerala-GTPL.jpg" group-title="Malayalam Local", Kerala GTPL HD
+https://srvx.nellaiiptv.com/restream/4vwghq/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="golive" tvg-logo="https://i.ibb.co/0RkJpBCH/DTV.jpg" group-title="Malayalam Local", DTV
+https://live.applelive.in/dtv/dtv/index.m3u8
+
+
+#EXTINF: -1 tvg-name="Willow Sports" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/willow_sports_stacked_logo_full_white.png" group-title="Sports", Willow Sports
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF: -1 tvg-name="Cricbuzz 1" tvg-logo="https://i.imgur.com/2Y2BoK5.png" group-title="Sports", Cricbuzz 1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
+#EXTINF: -1 tvg-name="Cricbuzz 2" tvg-logo="https://i.imgur.com/2Y2BoK5.png" group-title="Sports", Cricbuzz 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
+https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
+#EXTINF: -1 tvg-id="" tvg-name="DD Sports" tvg-logo="https://i.postimg.cc/gctJw8QG/1.png" group-title="Sports", DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+
+
+#EXTINF: -1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/gctJw8QG/1.png" group-title="Hindi", Sony Max HD Test
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009247
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Sports 1 HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009276
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Sports 2 HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009277
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Sports 3 HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009278
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Sports 5 HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009275
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony TV HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009246&e=.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Max HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009247&e=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Sab HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009248&e=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony BBC Earth HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009252
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Pix HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009258&e=.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Max
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009249
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Wah
+#EXTVLCOPT:http-referrer=https://b4uplay.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009253
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Pal
+#EXTVLCOPT:http-referrer=https://b4uplay.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009273
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",&TV HD USA
+#EXTVLCOPT:http-referrer=https://techtraveleat.in
+https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Zee TV HD APAC
+#EXTVLCOPT:http-referrer=https://techtraveleat.in
+https://colors.keralive.workers.dev/260723/smil:zeetvapachd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Zee Cinema HD Yupp APAC
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://yupp-origin-vt.keralive.workers.dev/28072023/zeecinemaapachd_800/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Zee TV Canada
+#EXTVLCOPT:http-referrer=https://techtraveleat.in
+https://toober.keralive.workers.dev/4c3caf7294b3/c8bf99484885/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Zee TV DE
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw/playlist.m3u8?ads.wurl_channel=2121
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Star Plus HD USA
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://maamusic.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starplushdus_us_https/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Star Bharat HD USA
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://maamusic.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starbharatus_us_https/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Utsav Plus
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://colors.keralive.workers.dev/260723/smil:starplusuk1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Utsav Bharat
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://colors.keralive.workers.dev/120723/smil:lifeokuk.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Colors Yupp USA
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://yupp-us-vt.keralive.workers.dev/090823/smil:colorsaapkadev.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Colors India
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://maamusic.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ZW0MTk/1.png" group-title="Music",YRF
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://kableone.keralive.workers.dev/hls/live/2111218/YrfMusic/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jddT28LL/1.webp" group-title="Music",B4U
+https://cdn-2.pishow.tv/live/415/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqCmrDT9/1.png" group-title="Music",9xM
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://9xmusic2.keralive.workers.dev/28072023/smil:9xmusic4.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h1Pwsv6/1.png" group-title="Music",Loop HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://bhoomtv.me/tv/yet/stream.m3u8?id=1101
+#EXTINF: -1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="Music", 1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF: -1 tvg-name="atomictv" tvg-logo="" group-title="Music", Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF: -1 tvg-name="atomicacadtv" tvg-logo="" group-title="Music", Atomic Academy TV
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF: -1 tvg-name="7 Radio Visione" tvg-logo="" group-title="Music", 7 Radio Visione
+https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
+#EXTINF: -1 tvg-name="tunebox" tvg-logo="" group-title="Music", Tune Box
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF: -1 tvg-name="activatv" tvg-logo="" group-title="Music", Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF: -1 tvg-name="barazatv" tvg-logo="" group-title="Music", Baraza TV
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="bizmusic" tvg-logo="" group-title="Music", Biz Music
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
+#EXTINF: -1 tvg-name="bridge_classic" tvg-logo="" group-title="Music", Bridge Classic
+https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
+#EXTINF: -1 tvg-name="btatv" tvg-logo="" group-title="Music", BTA TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF: -1 tvg-name="deluxedance" tvg-logo="" group-title="Music", Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF: -1 tvg-name="hitfm" tvg-logo="" group-title="Music", Hit FM
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+#EXTINF: -1 tvg-name="hmipromznews" tvg-logo="" group-title="Music", HM Promz News
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF: -1 tvg-name="impact" tvg-logo="" group-title="Music", Impact TV
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF: -1 tvg-name="infinita" tvg-logo="" group-title="Music", Infinita TV
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF: -1 tvg-name="k100" tvg-logo="" group-title="Music", K100 TV
+https://k100streymi.mbl.is/beint/k100/index.m3u8
+#EXTINF: -1 tvg-name="messatida" tvg-logo="" group-title="Music", Messatida TV
+https://rtmp.streams.ovh:8081/mtv/index.m3u8
+#EXTINF: -1 tvg-name="ocko" tvg-logo="" group-title="Music", OCKO TV
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF: -1 tvg-name="onfm" tvg-logo="" group-title="Music", ONFM TV
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF: -1 tvg-name="oneadria" tvg-logo="" group-title="Music", One Adria
+https://oneadriaapp.b-cdn.net/1080p/index.m3u8
+#EXTINF: -1 tvg-name="panik" tvg-logo="" group-title="Music", Panic TV
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
