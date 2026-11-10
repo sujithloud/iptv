@@ -126,7 +126,7 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-name="Koickal News" tvg-logo="https://i.postimg.cc/8C25BgVK/1.png" group-title="Malayalam Local", Koickal News
 http://applelive.in/koickalnews/koickalnews.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="Marayoor Vision" tvg-logo="https://i.postimg.cc/8C25BgVK/1.png" group-title="Malayalam Local", Marayoor Vision
+#EXTINF: -1 tvg-id="" tvg-name="Marayoor Vision" tvg-logo="https://i.postimg.cc/QtxcpKDK/1.webp" group-title="Malayalam Local", Marayoor Vision
 https://live.skystream.in/live/marayoor4766/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="Kannur Vision" tvg-logo="https://i.postimg.cc/L6ncRYPY/1.png" group-title="Malayalam Local", Kannur Vision
 https://stream.logichost.in/kannurvision/live/playlist.m3u8
